@@ -1,0 +1,23 @@
+/* header{
+    
+} */
+.banner{
+    position: relative;
+    
+}
+.banner img{
+    max-width: 100%;
+}
+.banner .Welcome{
+    background-color: #FEB614;
+    color: white;
+    position: absolute;
+    padding: 30px;
+    left: 0px;
+    top: 30%;
+}
+
+span{
+    size: 100px;
+}
+
